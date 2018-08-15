@@ -4,3 +4,14 @@ author: "Jesse Mostipak"
 date: "8/14/2018"
 output: html_document
 ---
+
+[Original Tweet](https://twitter.com/kierisi/status/1029097673163501569)
+
+**Mikhail Popov**  
+_[Twitter](https://twitter.com/bearloga)_
+
+* http://wikimedia-research.github.io/Discovery-Research-Portal/ukrainian/
+* https://wikimedia-research.github.io/Discovery-Search-Adhoc-RelevanceSurveys/
+* https://wikimedia-research.github.io/Discovery-Search-Test-InterleavedLTR/
+
+
