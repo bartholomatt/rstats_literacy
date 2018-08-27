@@ -277,7 +277,7 @@ __[Twitter](https://twitter.com/ma_schliebs)__
 * https://github.com/schliebs
 
 
-**Matt**  
+**Matt Bartholomew**  
 _[Twitter](https://twitter.com/bartholomatt)_
 
 * https://github.com/bartholomatt/namesApp/blob/master/namesapp.R
