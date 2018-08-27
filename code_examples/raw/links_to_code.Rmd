@@ -39,7 +39,7 @@ _[Twitter](https://twitter.com/gbganalyst)_
 * https://github.com/gbganalyst
 
 
-**Auggy**
+**Auggy**  
 _[Twitter](https://twitter.com/mmmpork)_
 
 * https://github.com/missaugustina/RhappyFUNblog/blob/master/render_slug.R
@@ -47,12 +47,13 @@ _[Twitter](https://twitter.com/mmmpork)_
 * https://github.com/IBM/visualizing-github-networks/blob/wip/visualizing-github-networks.Rmd
 
 
-**Philippe Vervliet**
+**Philippe Vervliet**  
 _[Twitter](https://twitter.com/pvervliet)_
 
 * https://github.com/pvervliet/invitRo
 
-**Simon Coulombe**
+
+**Simon Coulombe**  
 _[Twitter](https://twitter.com/CoulSim)_
 
 * https://github.com/SimonCoulombe/datacup_share
@@ -65,55 +66,55 @@ __[Twitter](https://twitter.com/pabloc_ds)__
 * https://livebook.datascienceheroes.com/
 
 
-**Dan Smilowitz**
+**Dan Smilowitz**  
 __[Twitter](https://twitter.com/dsmilo_)__
 
 * https://github.com/dsmilo
 
 
-**Ryan Estrellado**
--[Twitter](https://twitter.com/RyanEs)_
+**Ryan Estrellado**  
+_[Twitter](https://twitter.com/RyanEs)_
 
 * https://twitter.com/RyanEs
 
 
-**Tom Houslay**
+**Tom Houslay**  
 _[Twitter](https://twitter.com/tomhouslay)_
 
 * https://tomhouslay.com/tutorials/
 
 
-**TJ Mahr**
+**TJ Mahr**  
 _[Twitter](https://twitter.com/tjmahr)_
 
 * https://rpubs.com/tjmahr/spiky-baby-names
 
 
-**Gjalt-Jorn Peters**
+**Gjalt-Jorn Peters**  
 _[Twitter](https://twitter.com/matherion)_
 
 * https://osf.io/2uwxp/
 
 
-**Len Greski**
+**Len Greski**  
 _[Twitter](https://twitter.com/lgreski)_
 
 * https://github.com/lgreski/acsexample
 
 
-**Andrea Panizza**
+**Andrea Panizza**  
 _[Twitter](https://twitter.com/unsorsodicorda)_
 
 * https://github.com/AndreaPi/Analysis-of-NASA-Turbofan-Degradation-Data
 
 
-**Ryan Thompson**
+**Ryan Thompson**  
 _[Twitter](https://twitter.com/DarwinAwdWinner)_
 
 * https://github.com/DarwinAwardWinner/CD4-csaw
 
 
-**Colin Fay**
+**Colin Fay**  
 __[Twitter](https://twitter.com/_ColinFay)__
 
 * https://colinfay.me/worldemojiday
@@ -121,11 +122,267 @@ __[Twitter](https://twitter.com/_ColinFay)__
 * https://github.com/ColinFay/wikileaksdm
 
 
-**Peter Kamerman**
+**Peter Kamerman**  
 _[Twitter](https://twitter.com/painblogR)_
 
 * https://github.com/kamermanpr/SPARS
 
 
+**Mauro Lepore**  
+__[Twitter](https://twitter.com/mauro_lepore)__
+
+* https://fgeo.netlify.com/2018/07/30/2018-07-30-count-distinct-occurrences-of-a-variable-by-another-variable/
 
 
+**Laura Ellis**  
+_[Twitter](https://twitter.com/LittleMissData)_
+
+* https://github.com/lgellis/MiscTutorial
+
+
+**Peter Ellis**  
+_[Twitter](https://twitter.com/ellis2013nz)_
+
+* http://freerangestats.info/
+
+
+**Aaron Richter**  
+_[Twitter](https://twitter.com/rikturr)_
+
+* https://github.com/rikturr/tutorials/blob/master/experimental_results/tutorial.Rmd
+
+
+**Nick Zeng**  
+_[Twitter](https://twitter.com/zenggyu)_
+
+* https://blog.zenggyu.com/en/post/2018-03-11/understanding-the-bias-variance-decomposition-with-a-simulated-experiment/
+
+
+**Corinne Riddell**  
+_[Twitter](https://twitter.com/datavisitor)_
+
+* https://github.com/corinne-riddell/InjuryDisparity/tree/master/Code
+
+
+**Jeff Hollister**  
+_[Twitter](https://twitter.com/jhollist)_
+
+* https://github.com/usepa/watershed_integrity
+* https://github.com/jhollist/crabs
+
+
+**Jarrett Byrnes**  
+_[Twitter](https://twitter.com/jebyrnes)_
+
+* https://twitter.com/jebyrnes
+
+
+**Fabian Roger**  
+_[Twitter](https://twitter.com/Latrunculia)_
+
+* https://github.com/FabianRoger
+
+
+**Kim Cressman**  
+_[Twitter](https://twitter.com/swmpkim)_
+
+* https://github.com/swmpkim/tidytuesday/tree/master/R
+* https://github.com/swmpkim/NERRS-IOOS/blob/master/CERF%20workup.Rmd
+
+
+**Edward Visel**  
+_[Twitter](https://twitter.com/alistaire)_
+
+* https://github.com/alistaire47/passport/blob/master/inst/aggregation.Rmd
+
+
+**Daneel Olivaw**  
+__[Twitter](https://twitter.com/d_olivaw)__
+
+* https://github.com/eliocamp/tesis
+
+
+**Nathan Moore**  
+_[Twitter](https://twitter.com/nmoorenz)_
+
+* https://m-nz.shinyapps.io/EA_Dash/
+
+
+**Pessimist**  
+_[Twitter](https://twitter.com/pessimism)_
+
+* https://ndarville.com/reading/extreme-weather-and-climate-change/
+
+
+**Alex Albright**  
+_[Twitter](https://twitter.com/AllbriteAllday)_
+
+* https://github.com/apalbright
+
+
+**Will Hulme**  
+_[Twitter](https://twitter.com/wjchulme)_
+
+* https://github.com/wjchulme/BCIS-PCI-relative-survival
+
+
+**Daniela Vásquez**  
+_[Twitter](https://twitter.com/d4tagirl)_
+
+* https://d4tagirl.com/
+
+
+**Brandon Hurr**  
+_[Twitter](https://twitter.com/bhive01)_
+
+* https://groups.google.com/forum/#!searchin/manipulatr/hurr%7Csort:date
+* https://groups.google.com/forum/#!searchin/ggplot2/hurr%7Csort:date
+
+
+**Marta Kołczyńska**  
+_[Twitter](https://twitter.com/MartaKolcz)_
+
+* https://github.com/mkolczynska/martakolczynska/blob/master/content/post/sdr-exploration.Rmd
+
+
+**Jenny Bryan**  
+_[Twitter](https://twitter.com/JennyBryan)_
+
+* https://github.com/jennybc/gapminder/blob/master/data-raw/README.md
+
+
+**Damien C-C**  
+__[Twitter](https://twitter.com/dccc_phd)__
+
+* https://github.com/dccc-lab/AsthmaGXSigs/
+* https://github.com/dccc-lab/AsthmaGXSigs/blob/master/code/visualization/figure01.R
+
+
+**Chris Berndsen**  
+__[Twitter](https://twitter.com/kcat_km)__
+
+* https://osf.io/9pmqg/
+* https://github.com/CEBerndsen/NIH-data
+
+
+**Doctorb Zhian N. Kamvar**  
+_[Twitter](https://twitter.com/ZKamvar)_
+
+* https://github.com/everhartlab/sclerotinia-366
+
+
+**Marcel Schliebs**  
+__[Twitter](https://twitter.com/ma_schliebs)__
+
+* https://github.com/schliebs
+
+
+**Matt**  
+_[Twitter](https://twitter.com/bartholomatt)_
+
+* https://github.com/bartholomatt/namesApp/blob/master/namesapp.R
+
+
+**Jules Stuifbergen**  
+_[Twotter](https://twitter.com/zjuul)_
+
+* https://gist.github.com/zjuul/cac3f6e210cc64938bb5740d2920897f
+
+
+**Lisa DeBruine**  
+_[Twitter](https://twitter.com/lisadebruine)_
+
+* https://osf.io/e37da/
+
+
+**Nelson Stauffer**  
+_[Twitter](https://twitter.com/NelsonStauffer)_
+
+* https://github.com/nstauffer/REM429-LandscapeEcology/tree/master/labs/4_harvest
+
+
+**Jarvis Miller**  
+_[Twitter](https://twitter.com/jarvmiller)_
+
+* https://github.com/jarvmiller/amen_brother/blob/master/songs_viz.R
+
+
+**Kara Woo**  
+__[Twitter](https://twitter.com/kara_woo)__
+
+* https://github.com/karawoo/titlegrob-doc/blob/master/titlegrob.md#titlegrob-definition
+
+
+**Steph Locke**  
+_[Twitter](https://twitter.com/TheStephLocke)_
+
+* https://gist.github.com/stephlocke/fed76e9c4a7a038c4b67df713fa5b711
+
+
+**Shawn Taylor**  
+_[Twitter](https://twitter.com/dataEcologist)_
+
+* https://github.com/sdtaylor/phenology_dataset_study
+
+
+**Robert Kahne**  
+_[Twitter](https://twitter.com/rkahne)_
+
+* https://github.com/rkahne
+
+
+**Emmanuel Perry**  
+__[Twitter](https://twitter.com/manny_hockey)__
+
+* https://www.kaggle.com/mannyelk/an-honest-approach
+* https://www.kaggle.com/mannyelk/the-order-of-things
+
+
+**Pachá**  
+_[Twitter](https://twitter.com/pachamaltese)_
+
+* https://github.com/pachamaltese
+
+
+**Pete Mohanty**  
+_[Twitter](https://twitter.com/petemohanty)_
+
+* https://github.com/rdrr1990/bigKRLS/blob/master/examples/bigKRLS_boston_kcv.md
+
+
+**Jennifer Thompson**  
+_[Twitter](https://twitter.com/jent103)_
+
+* https://github.com/jenniferthompson/MOSAICProgress/blob/master/datamgmt_progress.R
+
+
+**Nik Agarwal**  
+_[Twitter](https://twitter.com/nikagarwal)_
+
+* https://github.com/nikdata/ForestCover/blob/nik/scripts/fc_nik2.R
+
+
+**Wei Yang Tham**  
+_[Twitter](https://twitter.com/wytham88)_
+
+* https://github.com/weiyangtham/wytham/blob/master/content/post/2018-02-15-scraping-nih-pis-with-rvest.Rmd
+
+
+**Danielle Quinn**  
+_[Twitter](https://twitter.com/daniellequinn88)_
+
+* https://github.com/DanielleQuinn/Miscellaneous/tree/master/dplyr_separateunitestring
+
+
+**Sharla Gelfand**  
+_[Twitter](https://twitter.com/sharlagelfand)_
+
+* https://sharlagelfand.netlify.com/posts/oh-the-cold-places-ive-lived/
+* https://sharlagelfand.netlify.com/posts/tidy-ttc/
+* https://sharlagelfand.netlify.com/posts/tidying-toronto-open-data/
+
+
+**Dr. Andrew Heiss**  
+_[Twitter](https://twitter.com/andrewheiss)_
+
+* https://github.com/andrewheiss/ngo-crackdowns-philanthropy
