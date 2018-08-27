@@ -27,7 +27,7 @@ _[Twitter](https://twitter.com/jsonbaik)_
 * https://github.com/jasonbaik94/mooc_visualization_analytics
 
 
-**Martin Henze)**  
+**Martin Henze**  
 _[Twitter](https://twitter.com/heads0rtai1s)_
 
 * https://www.kaggle.com/headsortails/kernels
@@ -37,4 +37,95 @@ _[Twitter](https://twitter.com/heads0rtai1s)_
 _[Twitter](https://twitter.com/gbganalyst)_
 
 * https://github.com/gbganalyst
+
+
+**Auggy**
+_[Twitter](https://twitter.com/mmmpork)_
+
+* https://github.com/missaugustina/RhappyFUNblog/blob/master/render_slug.R
+* https://github.com/rladies/meetupr/tree/master/tests/testthat
+* https://github.com/IBM/visualizing-github-networks/blob/wip/visualizing-github-networks.Rmd
+
+
+**Philippe Vervliet**
+_[Twitter](https://twitter.com/pvervliet)_
+
+* https://github.com/pvervliet/invitRo
+
+**Simon Coulombe**
+_[Twitter](https://twitter.com/CoulSim)_
+
+* https://github.com/SimonCoulombe/datacup_share
+
+
+**Pablo Casas**  
+__[Twitter](https://twitter.com/pabloc_ds)__
+
+* https://blog.datascienceheroes.com/
+* https://livebook.datascienceheroes.com/
+
+
+**Dan Smilowitz**
+__[Twitter](https://twitter.com/dsmilo_)__
+
+* https://github.com/dsmilo
+
+
+**Ryan Estrellado**
+-[Twitter](https://twitter.com/RyanEs)_
+
+* https://twitter.com/RyanEs
+
+
+**Tom Houslay**
+_[Twitter](https://twitter.com/tomhouslay)_
+
+* https://tomhouslay.com/tutorials/
+
+
+**TJ Mahr**
+_[Twitter](https://twitter.com/tjmahr)_
+
+* https://rpubs.com/tjmahr/spiky-baby-names
+
+
+**Gjalt-Jorn Peters**
+_[Twitter](https://twitter.com/matherion)_
+
+* https://osf.io/2uwxp/
+
+
+**Len Greski**
+_[Twitter](https://twitter.com/lgreski)_
+
+* https://github.com/lgreski/acsexample
+
+
+**Andrea Panizza**
+_[Twitter](https://twitter.com/unsorsodicorda)_
+
+* https://github.com/AndreaPi/Analysis-of-NASA-Turbofan-Degradation-Data
+
+
+**Ryan Thompson**
+_[Twitter](https://twitter.com/DarwinAwdWinner)_
+
+* https://github.com/DarwinAwardWinner/CD4-csaw
+
+
+**Colin Fay**
+__[Twitter](https://twitter.com/_ColinFay)__
+
+* https://colinfay.me/worldemojiday
+* https://github.com/DataBzh
+* https://github.com/ColinFay/wikileaksdm
+
+
+**Peter Kamerman**
+_[Twitter](https://twitter.com/painblogR)_
+
+* https://github.com/kamermanpr/SPARS
+
+
+
 
